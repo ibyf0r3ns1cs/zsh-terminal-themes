@@ -5,5 +5,4 @@ After spending some time using the pwnbox on a HackTheBox machine, I really enjo
 ![image](https://github.com/Idan1993/zsh-theme/assets/50079464/84394e3d-3242-4b3d-b03b-9db6f8661f7e)
 
 ## Usage
-1. Run ibyf0r-theme.sh
-2. 
+Just copy the content of ibyf0r.zsh to the end of you ~/.zshrc file
