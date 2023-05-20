@@ -6,3 +6,6 @@ After spending some time using the pwnbox on a HackTheBox machine, I really enjo
 
 ## Usage
 Just copy the content of ibyf0r.zsh to the end of you ~/.zshrc file
+
+![image](https://github.com/Idan1993/zsh-theme/assets/50079464/1302f9a1-f19d-43c8-9e92-60578a3321dd)
+
