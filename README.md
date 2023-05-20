@@ -4,9 +4,11 @@ After spending some time using the pwnbox on a HackTheBox machine, I really enjo
 
 ![image](https://github.com/Idan1993/zsh-theme/assets/50079464/84394e3d-3242-4b3d-b03b-9db6f8661f7e)
 
+> **Note:** If you are connected to the Hackthebox VPN, you will see the IP address of the tun0 interface (VPN interface); otherwise, you will see the IP address of the local machine's eth0 interface.
+
 ## Usage
 Just copy the content of ibyf0r.zsh to the end of you ~/.zshrc file
 
 ![image](https://github.com/Idan1993/zsh-theme/assets/50079464/1302f9a1-f19d-43c8-9e92-60578a3321dd)
 
-> **Note:** If you are connected to the Hackthebox VPN, you will see the IP address of the tun0 interface (VPN interface); otherwise, you will see the IP address of the local machine's eth0 interface.
+
