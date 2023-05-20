@@ -9,3 +9,4 @@ Just copy the content of ibyf0r.zsh to the end of you ~/.zshrc file
 
 ![image](https://github.com/Idan1993/zsh-theme/assets/50079464/1302f9a1-f19d-43c8-9e92-60578a3321dd)
 
+> **Note:** This is an important note.
