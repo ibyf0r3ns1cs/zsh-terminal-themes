@@ -13,6 +13,6 @@ Simply append the content of ibyf0r.zsh to the end of your ~/.zshrc file.
 
 # remnux-zsh-theme
 
-Download the theme to  ~/.oh-my-zsh/themes/remnux
+Download the theme to  ~/.oh-my-zsh/themes/remnux.zsh-theme
 
 
