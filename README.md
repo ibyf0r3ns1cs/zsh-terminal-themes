@@ -15,4 +15,7 @@ Simply append the content of ibyf0r.zsh to the end of your ~/.zshrc file.
 
 Download the theme to  ~/.oh-my-zsh/themes/remnux.zsh-theme
 
+![image](https://github.com/ibyf0r3ns1cs/zsh-themes/assets/50079464/41ecc01c-8503-4e2d-9100-0a63de8ad229)
+
+
 
