@@ -26,9 +26,7 @@ After spending some time using the pwnbox on a HackTheBox machine, I really enjo
     ```sh
     source ~/.zshrc
     ```
-
-#### Snapshot of the Theme Applied
-![HTB Theme Applied](https://github.com/Idan1993/zsh-theme/assets/50079464/1302f9a1-f19d-43c8-9e92-60578a3321dd)
+---
 
 ### 2. REMnux Zsh Theme (`ibyf0remnux.zsh`)
 
